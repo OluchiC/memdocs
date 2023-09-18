@@ -305,7 +305,7 @@ Use of two or more app configuration policies for Microsoft Defender that specif
 
 ### GCC High and FIPS support
 
-Microsoft Tunnel for MAM is supported for GCC High environments, but doesn't support Federal Information Processing Standard (FIPS).
+Microsoft Tunnel for MAM is not supported for GCC High environments, but doesn't support Federal Information Processing Standard (FIPS).
 
 ## Next steps
 
